@@ -3,7 +3,7 @@
 ![ASCII Art](./ascii-art.png)
 
 <details>
-<summary>Plain text (copy/paste, no color)</summary>
+<summary>Plain text </summary>
 
 ```
                                                                                                                              
